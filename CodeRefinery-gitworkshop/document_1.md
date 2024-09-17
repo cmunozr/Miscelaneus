@@ -50,8 +50,8 @@ Date:   Mon Sep 16 12:06:46 2024 +0200
 
 Write one or more paragraphs about Day 3 - Exercise 1: provide the link to the pull request. Explain what you did.
 
-**In this exercise, I collaborated to improve the [recorded repository](https://github.com/cr-workshop-exercises). First, I requested access. Using the GitHub web interface, I created an issue suggesting a new soup called Ajiaco, a traditional dish from Colombia. After creating the issue, I made a new branch named “ajiaco_soup”. Within this branch, inside the soups folder, I created a new file called “ajiaco-soup.md”. I documented the ingredients, added more chicken to the recipe, and formatted the document in Markdown, all in three separate commits. Once the document was ready, I initiated a pull request. During this process, I learned how to cross-reference issues. However, my pull request has not yet been reviewed, so my changes do not appear in the main branch.**
+**In this exercise, I collaborated to improve the [recorded repository](https://github.com/cr-workshop-exercises). First, I requested access. Using the GitHub web interface, I created an issue suggesting a new soup called Ajiaco, a traditional dish from Colombia. After creating the issue, I made a new branch named “ajiaco_soup”. Within this branch, inside the soups folder, I created a new file called “ajiaco-soup.md”. I documented the ingredients, added more chicken to the recipe, and formatted the document in Markdown, all in three separate commits. Once the document was ready, I initiated a pull request. During this process, I learned how to cross-reference issues inside the pull request. However, my pull request has not yet been reviewed, so my changes do not appear in the main branch.**
 
 ### Link to pull request
 
-[Pull request](https://github.com/cr-workshop-exercises/centralized-workflow-exercise-recorded/issues/5)
+[Pull request](https://github.com/cr-workshop-exercises/centralized-workflow-exercise-recorded/pull/46)
