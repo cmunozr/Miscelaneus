@@ -1,6 +1,6 @@
 # Document 3
 
-A personal reflection for each of the 6 days written as a document (pdf or word or txt, one paragraph per day). To get started, you can try answering the questions: "Why is this important? How can it improve my research work?" However any other personal reflection is welcome. Evaluation criteria: we expect reflections that are related to the content of each of the six days.
+*A personal reflection for each of the 6 days written as a document (pdf or word or txt, one paragraph per day). To get started, you can try answering the questions: "Why is this important? How can it improve my research work?" However any other personal reflection is welcome. Evaluation criteria: we expect reflections that are related to the content of each of the six days.*
 
 Day 1
 * github web tools for tracking

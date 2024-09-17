@@ -2,7 +2,7 @@
 
 Written answers to the following four questions submitted as a document (pdf or word or txt). Evaluation criteria: we expect critical answers related to the content of first 3 days with both pros and cons (when relevant):
 
-When should you work with branches?
+*When should you work with branches?*
 
 Working with branches is useful to
 
@@ -12,7 +12,7 @@ Working with branches is useful to
 * Collaborate and modify an existing project throug cross reference of issues and pull requests
 * Help in conflict resolution of contrasting ideas of development
 
-What is the difference between a `git clone` and a `git fork`?
+*What is the difference between a `git clone` and a `git fork`?*
 
 Let's to define each one:
 
@@ -23,9 +23,9 @@ The key difference is where the copy of a repository is made,  `git clone` creat
 
 Aditionally, forking is an action typically used to collaborate on an upstream (original) remote repository that you do not own or you are not part of the core development team. It allows you to work on your own version of the code before submitting contributions throug pull requests. On the other hand, cloning is a git command used to work directly on a repository where you have write access to the original repository. 
 
-What is the difference between a fork and a branch?
+*What is the difference between a fork and a branch?*
 
 Forking a repository means to create a copy of an existing repository
 
 
-What advantages and disadvantages to code review can you imagine/list?
+*What advantages and disadvantages to code review can you imagine/list?*
