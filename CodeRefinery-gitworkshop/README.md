@@ -10,5 +10,3 @@ This repository contains the documents required for obtaining certificate and cr
 - [Document 2: answers to questions](https://github.com/cmunozr/Miscelaneus/blob/main/CodeRefinery-gitworkshop/document_2.md)
 - [Document 3: personal reflection](https://github.com/cmunozr/Miscelaneus/blob/main/CodeRefinery-gitworkshop/document_3.md)
 
-## Collection of content links of each day.
-
