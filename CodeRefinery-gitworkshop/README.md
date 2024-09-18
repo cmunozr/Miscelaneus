@@ -12,20 +12,3 @@ This repository contains the documents required for obtaining certificate and cr
 
 ## Collection of content links of each day.
 
-Day 1-2
-
-https://coderefinery.github.io/git-intro/
-
-Day 3
-
-https://coderefinery.github.io/git-collaborative/
-
-Day 4
-
-https://coderefinery.github.io/reproducible-research/
-https://coderefinery.github.io/social-coding/
-
-Day 5
-
-
-Day 6
